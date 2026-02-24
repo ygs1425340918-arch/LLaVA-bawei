@@ -34,3 +34,4 @@ pip install ipykernel  # 使用jupyter文件的必备库
 
 python -m ipykernel install --user --name=LLaVA --display-name "LLaVA"   
 # 创建虚拟内核,用于运行jupyter
+
